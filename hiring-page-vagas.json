@@ -1,92 +1,90 @@
-{
-  "vagas": [
-    {
-      "id": 1,
-      "title": "Desenvolvedor React Pleno",
-      "description": "Procuramos alguém que curat programar de verdade!",
-      "type": "efetivo",
-      "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-      "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-      "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-      "linkToForm": "https://github.com/axiongroup",
-      "available": true
-    },
-    {
-      "id": 2,
-      "title": "Desenvolvedor Python",
-      "description": "Procuramos alguém que curat programar de verdade!",
-      "type": "efetivo",
-      "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-      "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-      "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-      "linkToForm": "https://github.com/axiongroup",
-      "available": true
-    },
-    {
-      "id": 3,
-      "title": "Desenvolvedor IOS",
-      "description": "Procuramos alguém que curat programar de verdade!",
-      "type": "efetivo",
-      "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-      "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-      "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-      "linkToForm": "https://github.com/axiongroup",
-      "available": true
-    },
-    {
-      "id": 4,
-      "title": "Desenvolvedor Owner",
-      "description": "Procuramos alguém que curat programar de verdade!",
-      "type": "efetivo",
-      "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-      "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-      "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-      "linkToForm": "https://github.com/axiongroup",
-      "available": true
-    },
-    {
-      "id": 5,
-      "title": "Desenvolvedor React Pleno",
-      "description": "Procuramos alguém que curat programar de verdade!",
-      "type": "efetivo",
-      "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-      "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-      "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-      "linkToForm": "https://github.com/axiongroup",
-      "available": true
-    },
-    {
-      "id": 6,
-      "title": "Desenvolvedor Python",
-      "description": "Procuramos alguém que curat programar de verdade!",
-      "type": "efetivo",
-      "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-      "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-      "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-      "linkToForm": "https://github.com/axiongroup",
-      "available": true
-    },
-    {
-      "id": 7,
-      "title": "Desenvolvedor IOS",
-      "description": "Procuramos alguém que curat programar de verdade!",
-      "type": "efetivo",
-      "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-      "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-      "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-      "linkToForm": "https://github.com/axiongroup",
-      "available": true
-    },
-    {
-      "id": 8,
-      "title": "Desenvolvedor Owner",
-      "description": "Procuramos alguém que curat programar de verdade!",
-      "type": "efetivo",
-      "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-      "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-      "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-      "linkToForm": "https://github.com/axiongroup",
-      "available": true
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Desenvolvedor React Pleno",
+    "description": "Procuramos alguém que curat programar de verdade!",
+    "type": "efetivo",
+    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
+    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
+    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
+    "linkToForm": "https://github.com/axiongroup",
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "Desenvolvedor Python",
+    "description": "Procuramos alguém que curat programar de verdade!",
+    "type": "efetivo",
+    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
+    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
+    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
+    "linkToForm": "https://github.com/axiongroup",
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "Desenvolvedor IOS",
+    "description": "Procuramos alguém que curat programar de verdade!",
+    "type": "efetivo",
+    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
+    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
+    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
+    "linkToForm": "https://github.com/axiongroup",
+    "available": true
+  },
+  {
+    "id": 4,
+    "title": "Desenvolvedor Owner",
+    "description": "Procuramos alguém que curat programar de verdade!",
+    "type": "efetivo",
+    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
+    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
+    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
+    "linkToForm": "https://github.com/axiongroup",
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "Desenvolvedor React Pleno",
+    "description": "Procuramos alguém que curat programar de verdade!",
+    "type": "efetivo",
+    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
+    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
+    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
+    "linkToForm": "https://github.com/axiongroup",
+    "available": true
+  },
+  {
+    "id": 6,
+    "title": "Desenvolvedor Python",
+    "description": "Procuramos alguém que curat programar de verdade!",
+    "type": "efetivo",
+    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
+    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
+    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
+    "linkToForm": "https://github.com/axiongroup",
+    "available": true
+  },
+  {
+    "id": 7,
+    "title": "Desenvolvedor IOS",
+    "description": "Procuramos alguém que curat programar de verdade!",
+    "type": "efetivo",
+    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
+    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
+    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
+    "linkToForm": "https://github.com/axiongroup",
+    "available": true
+  },
+  {
+    "id": 8,
+    "title": "Desenvolvedor Owner",
+    "description": "Procuramos alguém que curat programar de verdade!",
+    "type": "efetivo",
+    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
+    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
+    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
+    "linkToForm": "https://github.com/axiongroup",
+    "available": true
+  }
+]
