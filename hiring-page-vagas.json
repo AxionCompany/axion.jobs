@@ -88,28 +88,5 @@
       "linkToForm": "https://github.com/axiongroup",
       "available": true
     }
-  ],
-  "depoimentos": [
-    {
-      "id": 1,
-      "name": "Ana",
-      "role": "Product Owner",
-      "message": "“Na Axion tenho a oportunidade e o espaço para construir coisas novas todos os dias, não há monotonia. Além da possibilidade de aprender e atuar em diferentes áreas!”",
-      "image": "https://revistatudo.com.br/site/wp-content/uploads/2020/08/Cr%C3%A9dito-da-foto-Gustavo-Arrais_Marina_Person_02-12-2015_3887.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Joe",
-      "role": "Desenvolvedor",
-      "message": "“Na Axion tenho a oportunidade e o espaço para construir coisas novas todos os dias, não há monotonia. Além da possibilidade de aprender e atuar em diferentes áreas!”",
-      "image": "https://revistatudo.com.br/site/wp-content/uploads/2020/08/Cr%C3%A9dito-da-foto-Gustavo-Arrais_Marina_Person_02-12-2015_3887.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Jhon",
-      "role": "Product Owner",
-      "message": "“Na Axion tenho a oportunidade e o espaço para construir coisas novas todos os dias, não há monotonia. Além da possibilidade de aprender e atuar em diferentes áreas!”",
-      "image": "https://revistatudo.com.br/site/wp-content/uploads/2020/08/Cr%C3%A9dito-da-foto-Gustavo-Arrais_Marina_Person_02-12-2015_3887.jpg"
-    }
   ]
 }
