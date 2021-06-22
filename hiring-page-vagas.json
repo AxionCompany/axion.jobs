@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Desenvolvedor React Pleno",
-    "description": "Procuramos alguém que curat programar de verdade!",
-    "type": "efetivo",
-    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-    "linkToForm": "https://github.com/axiongroup",
+    "title": "UX/UI Designer",
+    "description": "Estamos buscando designers para criar as melhores experiências para nossos clientes. Nossos designer precisam ter habilidades para transformar requisitos complexos e difíceis em interfaces extremamente funcionais e intuitivas. Precisam também conhecer bem os usuários das nossas aplicações, trazer um olhar crítico e analítico das soluções, organizar pesquisas e testes com usuários, projetar protótipos e interfaces, auxiliar na estruturação dos processos discovery e delivery dos produtos. Além disso, é importante ser uma pessoa comunicativa, usar a visão analítica para entender bem o mercado e conseguir organizar as informações dos sistemas da melhor forma possível para clientes e time de produto. Buscamos pessoas que gostem de trabalhar de maneira colaborativa, que se comuniquem bem e que queiram ser parte de um time. Se você tiver experiências com testes de usabilidade e pesquisas com usuários reais, é um grande diferencial.",
+    "type": "Estágio, CLT ou PJ",
+    "requirements": "\n- Conhecimento sobre Design Thinking; \n- Criação de wireframes, user flows e prototipação; \n- Domínio de fundamentos de design para auxiliar os devs com demandas de criação ou ajustes de layout; \n",
+    "benefits": "\n Benefício flexível com Vee Benefícios \n Trabalho remoto",
+    "differentials": "\n Figma \n Experiência com UX/UI \n Facilidade com Design Systems \n Validação de hipóteses e testes A/B \n Conhecimento da guidelines de Android e iOS \n Inglês .",
+    "linkToForm": "https://bit.ly/3gMxYa3",
     "available": true
   },
   {
@@ -17,9 +17,9 @@
     "type": "efetivo",
     "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
     "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
+    "differentials": "\n Figma \n Experiência com UX/UI \n Facilidade com Design Systems \n Validação de hipóteses e testes A/B \n Conhecimento da guidelines de Android e iOS \n Inglês .",
     "linkToForm": "https://github.com/axiongroup",
-    "available": true
+    "available": false
   },
   {
     "id": 3,
@@ -30,61 +30,7 @@
     "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
     "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
     "linkToForm": "https://github.com/axiongroup",
-    "available": true
-  },
-  {
-    "id": 4,
-    "title": "Desenvolvedor Owner",
-    "description": "Procuramos alguém que curat programar de verdade!",
-    "type": "efetivo",
-    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-    "linkToForm": "https://github.com/axiongroup",
-    "available": true
-  },
-  {
-    "id": 5,
-    "title": "Desenvolvedor React Pleno",
-    "description": "Procuramos alguém que curat programar de verdade!",
-    "type": "efetivo",
-    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-    "linkToForm": "https://github.com/axiongroup",
-    "available": true
-  },
-  {
-    "id": 6,
-    "title": "Desenvolvedor Python",
-    "description": "Procuramos alguém que curat programar de verdade!",
-    "type": "efetivo",
-    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-    "linkToForm": "https://github.com/axiongroup",
-    "available": true
-  },
-  {
-    "id": 7,
-    "title": "Desenvolvedor IOS",
-    "description": "Procuramos alguém que curat programar de verdade!",
-    "type": "efetivo",
-    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-    "linkToForm": "https://github.com/axiongroup",
-    "available": true
-  },
-  {
-    "id": 8,
-    "title": "Desenvolvedor Owner",
-    "description": "Procuramos alguém que curat programar de verdade!",
-    "type": "efetivo",
-    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-    "linkToForm": "https://github.com/axiongroup",
-    "available": true
+    "available": false
+  }
   }
 ]
