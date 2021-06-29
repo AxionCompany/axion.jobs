@@ -9,27 +9,5 @@
     "differentials": "Figma <br> Experiência com UX/UI <br> Facilidade com Design Systems <br> Validação de hipóteses e testes A/B <br> Conhecimento da guidelines de Android e iOS <br> Inglês",
     "linkToForm": "https://bit.ly/3gMxYa3",
     "available": true
-  },
-  {
-    "id": 2,
-    "title": "Desenvolvedor Python",
-    "description": "Procuramos alguém que curta programar de verdade!",
-    "type": "efetivo",
-    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-    "differentials": "\n Figma \n Experiência com UX/UI \n Facilidade com Design Systems \n Validação de hipóteses e testes A/B \n Conhecimento da guidelines de Android e iOS \n Inglês .",
-    "linkToForm": "https://github.com/axiongroup",
-    "available": false
-  },
-  {
-    "id": 3,
-    "title": "Desenvolvedor IOS",
-    "description": "Procuramos alguém que curta programar de verdade!",
-    "type": "efetivo",
-    "requirements": "<br>Conhecer React (backend e front-end)</br>Graduação e/ou experiência de trabalho com desenvolvimento<br>Conhecimento de teoria de computação, algoritmos e estrutura de dados.",
-    "benefits": "<br>Vale refeição | Vale Transporte | Home Office | Horários Flexíveis",
-    "differentials": "<br>Conhecimentos gerais de bancos SQL e noSQL.",
-    "linkToForm": "https://github.com/axiongroup",
-    "available": false
   }
 ]
